@@ -3,7 +3,7 @@ import poto from '../foto/profile.jpg';
 
 const Home = () => {
 	return(
-		<div className="container">
+		<div className="container-md">
 			<h3 className="title">Profile</h3>
 			<hr/>
 

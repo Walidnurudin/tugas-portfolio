@@ -5,7 +5,7 @@ import poto3 from '../foto/3.jpg';
 
 const Gallery = () => {
 	return(
-		<div className="container">
+		<div className="container-md">
 			<h3 className="title">Gallery</h3>
 			<hr/>
 		  <div className="row">
